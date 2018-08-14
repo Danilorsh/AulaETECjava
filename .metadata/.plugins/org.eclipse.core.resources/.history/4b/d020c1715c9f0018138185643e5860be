@@ -1,0 +1,7 @@
+package Aula;
+
+public class Primeiraaula {
+	public static void main(String args) {
+		System.out.println("Teste primeira impressao em tela");
+		}		
+}
